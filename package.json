@@ -1,0 +1,19 @@
+{
+  "name": "jsstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budou114/jsStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budou114/jsStudy/issues"
+  },
+  "homepage": "https://github.com/budou114/jsStudy#readme"
+}
