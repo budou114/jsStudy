@@ -165,7 +165,7 @@
 /**
  * mapを使った配列の処理
  */
-const nameArr = ['田中', '山田', 'じゃけえ'];
+// const nameArr = ['田中', '山田', 'じゃけえ'];
 // for (let index = 0; index < nameArr.length; index++) {
 //     console.log(`${index + 1}番目は${nameArr[index]}です。`);
 // };
@@ -186,11 +186,11 @@ const nameArr = ['田中', '山田', 'じゃけえ'];
 // });
 // console.log(newNumArr);
 
-const newNameArr = nameArr.map((name) => {
-    if (name == "じゃけえ") {
-        return name;
-    } else {
-        return `${name}さん`;
-    }
-});
-console.log(newNameArr)
+// const newNameArr = nameArr.map((name) => {
+//     if (name == "じゃけえ") {
+//         return name;
+//     } else {
+//         return `${name}さん`;
+//     }
+// });
+// console.log(newNameArr)
