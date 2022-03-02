@@ -43,12 +43,12 @@
 // console.log(val4);
 
 // constで定義した配列はプロパティの変更が可能
-const val5 = ['dog', 'cat'];
-console.log(val5);
+// const val5 = ['dog', 'cat'];
+// console.log(val5);
 
-val5[0] = 'bird';
-console.log(val5);
+// val5[0] = 'bird';
+// console.log(val5);
 
-val5.push("monkey");
-console.log(val5);
+// val5.push("monkey");
+// console.log(val5);
 
